@@ -1,7 +1,7 @@
-Hi! My name is Geet Tiwari 😄
+Hi! My name is Geet Tiwari 👋
 ========================================================================================================================================
 
-🌍  I am a Fulll Stack Developer from India
+🌍  I am a Full Stack Developer 
 <br/>
 
 ### Skills
